@@ -3,7 +3,7 @@
 A collection of simple, fast, and free online tools for **text, images, CSV, math, and more**.  
 Built in pure **HTML + CSS + JavaScript**, no backend required.  
 
-🔗 **Live Demo**: [View on GitHub Pages] (https://mmkhokhar.github.io/Online-Tools/)
+🔗 **Live Demo**: [View on GitHub Pages](https://mmkhokhar.github.io/Online-Tools/)
 
 ---
 
@@ -14,8 +14,3 @@ Built in pure **HTML + CSS + JavaScript**, no backend required.
 - ➕ Math Tools – quick calculators and helpers  
 - 🎬 YouTube SEO Tools – keyword/tag/hashtag extractor, title & description generator, channel audit, rank tracker  
 - 💻 100% Client-side – fast, secure, works offline  
-
----
-
-## 📂 Project Structure
-
