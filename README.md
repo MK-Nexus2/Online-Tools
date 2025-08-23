@@ -3,7 +3,7 @@
 A collection of simple, fast, and free online tools for **text, images, CSV, math, and more**.  
 Built in pure **HTML + CSS + JavaScript**, no backend required.  
 
-🔗 **Live Demo**: [View on GitHub Pages](https://your-username.github.io/online-tools/)
+🔗 **Live Demo**: [View on GitHub Pages] (https://mmkhokhar.github.io/Online-Tools/)
 
 ---
 
