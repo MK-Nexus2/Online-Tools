@@ -1,6 +1,6 @@
 # Online Tools MK 🛠️
 
-A free, fast, privacy-focused collection of web-based utilities for developers, content creators, and students. Everything runs in your browser. No uploads, no registration, no tracking.
+A free, fast, privacy-focused collection of web-based utilities for developers, content creators, and students. Everything runs in your browser: no uploads, no registration, no tracking.
 
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)
@@ -8,7 +8,7 @@ A free, fast, privacy-focused collection of web-based utilities for developers, 
 
 Brand Name: MK Nexus
 Developer: Muhammad Maqsood
-If GitHub allows external contact links, you can reach me on LinkedIn.
+Contact: If GitHub allows external links, visitors can reach me via the LinkedIn link on my GitHub profile.
 
 **Live Demo:**
 [https://mk-nexus2.github.io/Online-Tools/](https://mk-nexus2.github.io/Online-Tools/)
